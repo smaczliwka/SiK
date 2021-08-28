@@ -4,7 +4,7 @@ HTTP server - Computer networks 2021, University of Warsaw
 Zadanie polega na napisaniu prostego serwera protokołu HTTP, z wąskim zakresem obsługiwanego wycinka specyfikacji protokołu HTTP/1.1 oraz specyficznym zachowaniem w przypadku niedostępności zasobu żądanego przez klienta.
 
 Program serwera będzie uruchamiany następująco:
-serwer <nazwa-katalogu-z-plikami> <plik-z-serwerami-skorelowanymi> [<numer-portu-serwera>]
+serwer \<nazwa-katalogu-z-plikami\> \<plik-z-serwerami-skorelowanymi\> [\<numer-portu-serwera\>]
 
 Parametr z nazwą katalogu jest parametrem obowiązkowym i może być podany jako ścieżka bezwzględna lub względna. W przypadku ścieżki względnej serwer próbuje odnaleźć wskazany katalog w bieżącym katalogu roboczym.
 Parametr wskazujący na listę serwerów skorelowanych jest parametrem obowiązkowym i jego zastosowanie zostanie wyjaśnione w dalszej części treści zadania (Skorelowane serwery HTTP).
