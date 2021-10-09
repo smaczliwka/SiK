@@ -1,5 +1,5 @@
 # SiK
-HTTP server - Computer networks 2021, University of Warsaw
+Serwer HTTP - Sieci komputerowe 2020/2021, Uniwersytet Warszawski
 
 Zadanie polega na napisaniu prostego serwera protokołu HTTP, z wąskim zakresem obsługiwanego wycinka specyfikacji protokołu HTTP/1.1 oraz specyficznym zachowaniem w przypadku niedostępności zasobu żądanego przez klienta.
 
